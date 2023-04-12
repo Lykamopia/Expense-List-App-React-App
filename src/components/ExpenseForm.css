@@ -1,0 +1,44 @@
+.Form__container{
+    margin: 2rem;
+    background-color: rgb(235, 235, 235);
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: center;
+    border-radius: 1rem;
+    padding: 3rem 0;
+    box-shadow: 2px 4px 8px  rgba(0, 0, 0, 0.678);
+}
+.Form__button{
+    display: right;
+    width: 10rem;
+    height: 3rem;
+    border-radius: 1rem;
+    font-size: 1rem;
+    background-color:rgb(160, 80, 80);
+    border: none;
+    cursor: pointer;
+    margin-left: 14rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+.Form__input{
+    width: 40%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.Form__input>input{
+    height: 2rem;
+    border-radius: 0.5rem;
+    background-color: rgb(223, 242, 255);
+    font-size: 1rem;
+    padding-left: 1rem;
+    font-weight: bold;
+    margin: 0.5rem;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    color: brown;
+}

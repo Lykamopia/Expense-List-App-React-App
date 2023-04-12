@@ -1,0 +1,21 @@
+.Filter__container{
+    padding-left: 70%;
+    padding-top: 1rem;
+    margin: 1rem;
+}
+.Filter__option{
+    background-color:rgb(252, 252, 252);
+    height: 2rem;
+    width: 4rem;
+    outline: none;
+    border: 2px solid darkgray;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    color: darkgray;
+}
+.Filter__span{
+    margin-right: 2rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: grey;
+}

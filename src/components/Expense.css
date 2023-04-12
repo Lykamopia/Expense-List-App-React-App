@@ -1,0 +1,62 @@
+h2{
+    color: rgb(120, 29, 23);
+}
+.First__Div{
+    margin: 2% 10%;
+    padding-left: 2rem;
+    padding-bottom: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.1rem;
+    background-color: rgb(236, 248, 240);
+    height: 70px;
+}
+.Third__Div{
+    padding: 1rem;
+    font-weight: bold;
+    border: 2px solid rgb(79, 20, 20);
+    border-radius: 10px;
+    background-color: brown;
+    color: white;
+    height: fit-content;
+    width: fit-content;
+    margin: 0.5rem;
+}
+.Fourth__Div{
+    padding: 0 1rem;
+    font-size: 15px;
+    color: brown;
+    font-weight: bold;
+    margin: 1rem 0;
+    border: 2px solid rgb(226, 169, 169);
+    background-color: rgba(97, 79, 79, 0.29);
+    border-radius: 20px;
+    width: 30%;
+    height: 60%;
+    display: flex;
+}
+.Date__month__year{
+    font-size: 18px;
+    color: brown;
+    width: 100%;
+    margin: 0.2rem;
+    font-family:monospace;
+    font-weight: bolder;
+}
+.Date__day{
+    font-size: 25px;
+    color: rgb(87, 68, 45);
+}
+.container{ 
+    margin: 2rem;
+    background-color: rgb(235, 235, 235);
+    width: 80%;
+    margin-left: 10%;
+}
+.Delete__btn{
+    height: 50%;
+    margin: 1.2rem;
+    cursor: pointer;
+    border-radius: 0.3rem;
+    color: black;
+}

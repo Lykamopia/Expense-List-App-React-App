@@ -8,6 +8,7 @@ This is a simple expense list application built with React. It allows users to t
 ## Features
 
 - Add new expenses with details such as description, amount, and date.
+- Filter Results by the Year
 - View a summary of total expenses.
 
 ## Technologies Used
@@ -64,7 +65,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Contact
 
-If you have any questions or want to connect, you can reach me at [your-email@example.com](mailto:www.alex94lykam@gmail.com).
+If you have any questions or want to connect, you can reach me at [www.alex94lykam@gmail.com](mailto:www.alex94lykam@gmail.com).
 
 Thank you for using the Expense List app!
 
